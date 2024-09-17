@@ -1,0 +1,7 @@
+version: '3'
+
+tasks:
+  run:
+    cmds:
+      - opam exec -- dune exec opus_classical_ocaml
+

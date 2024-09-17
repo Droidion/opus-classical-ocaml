@@ -1,0 +1,4 @@
+(executable
+ (public_name opus_classical_ocaml)
+ (name main)
+ (libraries opus_classical_ocaml dream))

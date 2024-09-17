@@ -1,0 +1,2 @@
+(library
+ (name opus_classical_ocaml))
